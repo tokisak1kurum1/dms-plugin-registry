@@ -5,7 +5,7 @@
     "category": "appearance",
     "repo": "https://github.com/tokisak1kurum1/mpvpaper-plugin",
     "author": "tokisak1kurum1",
-    "description": "Play and switch video wallpapers with multi-monitor support, lock-screen power saving, and an included DankBar widget.",
+    "description": "Play and smoothly switch video wallpapers with multi-monitor support and a DankBar widget.",
     "dependencies": ["mpvpaper", "ffmpeg"],
     "compositors": ["any"],
     "distro": ["any"],
